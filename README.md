@@ -8,4 +8,8 @@ My name is Sebastian and I'm a doctoral researcher in
 
 I work on ownership and confidentiality in machine learning. You can get a better idea by looking at my [publication list](https://sebszyller.com/publications) ([Google Scholar](https://scholar.google.com/citations?user=wuwZNVYAAAAJ&hl=en)) or [blog posts](https://sebszyller.com/blog).
 
-Here you can find both some personal repos as well as forks of the official releases of my scientific work ([PRADA defence](https://github.com/sebszyller/prada-protecting-against-dnn-model-stealing-attacks), [DAWN watermarking](https://github.com/sebszyller/dawn-dynamic-adversarial-watermarking-of-neural-networks) and [clustering for fraud detection](https://github.com/sebszyller/recagglo)).
+Here you can find both some personal repos as well as forks of the official releases of my scientific work:
+- [conflicts in ML protection mechanisms](https://github.com/ssg-research/conflicts-in-ml-protection-mechanisms)
+- [DAWN watermarking](https://github.com/ssg-research/dawn-dynamic-adversarial-watermarking-of-neural-networks)
+- [clustering for fraud detection](https://github.com/SSGAalto/recagglo)
+- [PRADA defence](https://github.com/SSGAalto/prada-protecting-against-dnn-model-stealing-attacks)
