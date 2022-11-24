@@ -1,5 +1,5 @@
 Profile pic generated with DALL-E 2 using the prompt:
-> a high res photo of a chow chow dj mixing music with a turntable synthwave style
+> a realistic oil painting of a tabby cat in a pirate outfit, ocean background
 
 ## Hello there
 
