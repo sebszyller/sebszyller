@@ -14,4 +14,4 @@ Here you can find both some personal repos as well as forks of the official rele
 - [clustering for fraud detection](https://github.com/SSGAalto/recagglo)
 - [PRADA defence](https://github.com/SSGAalto/prada-protecting-against-dnn-model-stealing-attacks)
 
-(I use vim, btw)
+(I use neovim, btw)
